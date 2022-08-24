@@ -1,0 +1,13 @@
+body {
+  background: #35322d !important;
+}
+.container {
+  margin-top: 30px;
+  width: 1000px;
+  height: 500px;
+}
+
+.container img {
+  margin-top: 70px;
+}
+
